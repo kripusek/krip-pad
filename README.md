@@ -17,7 +17,7 @@ Here are pictures of my pcb:
 I designed it using autodesk fusion
 
 
-Everything fits together with 4 m3 screws and bolts
+Everything fits together with 5 m3 screws and bolts
 
 ## Firmware
 
