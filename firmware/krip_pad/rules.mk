@@ -1,0 +1,6 @@
+OLED_ENABLE = yes
+OLED_DRIVER = ssd1306
+BOARD = GENERIC_RP_RP2040
+WPM_ENABLE = yes
+
+SRC += bongo_cat.c
