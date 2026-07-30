@@ -24,6 +24,8 @@ Everything fits together with 5 m3 screws and bolts
 I wrote the firmware using qmk.
 
 ## Notes
+If you want to change the mapped you can use via with the included via.json file which you can find in the firmware folder https://usevia.app/
+
 Making this pad was fun, I got to learn qmk fusion and kicad which I can use fluently now, fusion and qmk not so much.
 
 I have used https://github.com/hackclub/hackpad/blob/main/hackpads/cyaopad/README.md as a template for my readme
