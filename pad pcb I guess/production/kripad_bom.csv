@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4",Diode_DO-35,4,~,
+J1,OLED_128x32,1,OLED_128x32,
+"S1, S2, S3, S4",MX_PCB_1.00u,4,~,
+U1,Seeed_XIAO_RP2040,1,MOUDLE-SEEEDUINO-XIAO,
