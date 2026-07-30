@@ -29,6 +29,7 @@ Making this pad was fun, I got to learn qmk fusion and kicad which I can use flu
 I have used https://github.com/hackclub/hackpad/blob/main/hackpads/cyaopad/README.md as a template for my readme
 
 I have used https://github.com/dancarroll/qmk-bongo for the bongo animations
+I have also used ai for explaining what does what in qmk, afterwards I have written the code myself and ai has helped me debug it.
 
 ## BOM
 - 1 SEEEDUINO XIAO RP2040
