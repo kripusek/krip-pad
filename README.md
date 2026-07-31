@@ -12,6 +12,7 @@ should be around 0.4mm
 ## WIP picture of the hack pad
 
 [![756430685-1049368698055169-1327632674098546290-n.jpg](https://i.postimg.cc/jd0FPbKN/756430685-1049368698055169-1327632674098546290-n.jpg)](https://postimg.cc/mhjjWKP2)
+(yes I have a really cool mousepad)
 
 
 ## PCB
