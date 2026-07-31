@@ -9,6 +9,10 @@ This is my macro pad madwe mainly for playing osumania type games
 ## tolerances
 should be around 0.4mm
 
+## WIP picture of the hack pad
+
+![]https://ibb.co/Q7NLZ9Rh)
+
 
 ## PCB
 Here are pictures of my pcb:
