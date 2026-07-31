@@ -6,6 +6,10 @@ This is my macro pad madwe mainly for playing osumania type games
 - 4 keys
 - An opening to see the screen, xiao rp2040 and the oled
 
+## tolerances
+should be around 0.4mm
+
+
 ## PCB
 Here are pictures of my pcb:
 
